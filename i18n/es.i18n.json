@@ -1,0 +1,77 @@
+{
+
+	/*Config*/
+	"configName": "Control de Taller",
+	"configTitle": "Sistema de Control del Taller Municipal",
+	"configSubtitle": "Portal Web del Taller de la Municipalidad de Coquimbo",
+	
+	/*Home*/
+	"getstarted": "Ingresar",
+	"dashboard": "Ir al panel de Administraci&oacute;n",
+	"learn": "Learn more",
+	"intro": "Make Meteor Apps. Fast.",
+	"how": "Como Utilizar el Servicio",
+	"step_1": "Paso 1",
+	"step_1_text": "Registrese en el Sistema.",
+	"step_2": "Paso 2",
+	"step_2_text": "Ingresar los detalles de registro ya validados.",
+	"step_3": "Paso 3",
+	"step_3_text": "Ingresar al panel de Administración.",
+	"section_ipad_header": "A revolutionary product",
+	"section_ipad_text": "Do really cool stuff really quickly",
+	"section_ipad_btn": "Made by MeteorFactory",
+	"final_text": "Your life will be instantly better.",
+	"final_cta": "Take a look",
+
+	/*Shared*/
+
+	"favorite": "Favorite",
+
+	 /*Navbar*/
+	"admin": "Admin",
+	"profile": "Perfil",
+	"account": "Cuenta",
+	"signout": "Sign out",
+	"signup": "Registrarse",
+	"login": "Log in",
+	"login2": "Login",
+	"edit_profile": "Editar Perfil",
+	"notifications": "Notificaciones",
+
+	/*Not Found*/
+	"not_found": "Nada Aqui.",
+
+
+	/*Dashboard*/
+	"add_post": "Agregar Post",
+	"add_post_btn": "Agregar Post",
+	"add_post_modal": "Agregar con un modal",
+	"add_post_modal_btn": "Agregar un nuevo post",
+	"edit_post": "Editar post",
+	"delete": "Borrar",
+	"favorites": "Favoritos",
+
+	/*Account*/
+	"account_details": "Detalles de Cuenta",
+	"delete_account": "Borrar Cuenta",
+	"delete_account_warn": "There's no coming back from this one",
+	"delete_account_warn2": "Esta seguro que quiere borrar la cuenta?",
+	"close": "Cerrar",
+	"change_pswd": "Cambiar Password",
+
+	/*Profile*/
+	"update": "Actualizar",
+
+	/*Posts*/
+
+	"postTitle": "Titulo",
+	"postContent": "Contenido",
+	"postPicture": "Foto",
+	// "uploadLabel": "Choose File"
+	"profilePicture": "Foto perfil"
+
+
+	
+
+
+}
